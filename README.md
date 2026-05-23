@@ -66,12 +66,12 @@ Edit the bot-authme-first.js file with your own settings:
 ```
 {
   "server": {
-    "host": "your.minecraft.server.ip",
-    "port": 25565,
+    "host": "MalekElgamed9.aternos.me",
+    "port": 38160,
     "version": "1.20.4"
   },
   "bot": {
-    "username": "YourBotName",
+    "username": "Bot",
     "auth": "offline",
     "authmePassword": "YourAuthMePassword"
   },
